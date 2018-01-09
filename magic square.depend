@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1425448509 source:c:\users\steven\desktop\magic square\main.cpp
+	<iostream>
+	<iomanip>
+
