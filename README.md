@@ -1,6 +1,20 @@
 # MagicSquare
 
-Magic Square Runtime Output
+A magic square is an NxN square matrix whose numbers (usually integers) consist of consecutive numbers arranged so that the sum of each row and column, and both long (main) diagonals are equal to the same sum (which is called the magic number or magic constant). For any odd N, generate a magic square with the integers 1 ──► N, and show the results here.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+```
+Visual Studios
+```
+
+## Running the tests
+
+```
 Welcome to my Odd Order Magic Square Program!
 Enter the order of square: 3
 Magic Square of order: 3
@@ -53,4 +67,9 @@ n
 Closing program...
 
 Process returned 0 (0x0)   execution time : 16.815 s
-Press any key to continue.
+
+```
+
+## Authors
+
+* **Steven Duong** 
